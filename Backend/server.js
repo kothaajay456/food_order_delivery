@@ -33,4 +33,3 @@ app.listen(port,()=>{
     console.log(`Backend working on http://localhost:${port}`);
 })
 
-// mongodb+srv://kothaajay456:zYKZ04JGrtBKA7as@cluster0.rpapztd.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
